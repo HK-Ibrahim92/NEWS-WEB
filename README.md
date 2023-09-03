@@ -1,2 +1,2 @@
 # NEWS-WEB
-[News web link here(https://ib-news-web.netlify.app/)
+check my News web click here..(https://ib-news-web.netlify.app/)
